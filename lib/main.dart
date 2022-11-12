@@ -4,7 +4,7 @@ import 'package:olocker_demo/Screens/aboutus.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  
+
   runApp(const MyApp());
 }
 
@@ -23,3 +23,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+
+//https://devappapi.olocker.in/api/Partner/GetDetails?PartnerSrno=575&CustomerId=939308
